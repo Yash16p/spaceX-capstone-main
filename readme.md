@@ -1,6 +1,5 @@
 # 🚀 Applied Data Science Capstone
 
-This project is the final course in the IBM Data Science Professional Certificate specialization. It integrates and applies the knowledge gained throughout the specialization to analyze SpaceX's Falcon 9 rocket launches.
 
 ## 📄 Project Background
 
